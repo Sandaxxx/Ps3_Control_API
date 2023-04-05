@@ -1,7 +1,8 @@
 # __**PS3 Control API by Sandax**__
-## TUTORIAL FRENCH/ENGLISH 
+## 📋 TUTORIAL FRENCH/ENGLISH 
 https://user-images.githubusercontent.com/91079659/230118497-4971678d-8a2f-4e1b-81ff-02e4760a1e5d.mp4
 
+![image](https://user-images.githubusercontent.com/91079659/230123978-9106b2b2-921d-4800-8eeb-cd6736acedfa.png)
 ______________________________________________________________
 
 # ⚙ REQUIRED | VOUS DEVEZ FAIRE
@@ -9,12 +10,12 @@ ______________________________________________________________
 ## EN : Install Webman on your console and authorized FTP
 ## FR : Installez Webman sur votre console et autorisé le FTP
 
+
 ______________________________________________________________
 
-# FONCTIONNALITIES | FONCTIONNALITÉS
+# 📡 FONCTIONNALITIES | FONCTIONNALITÉS
 
 EN : Application to manage your ps3 with an IP address (connect, led, buzzer, manage file, send notify...)
-
 FR : Application pour gérér sa ps3 avec une addresse IP(connect, led, buzzer, manage file, send notify...)
 
 - Connect your PS3
