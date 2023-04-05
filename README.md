@@ -2,14 +2,17 @@
 ## TUTORIAL FRENCH/ENGLISH
 https://user-images.githubusercontent.com/91079659/230118497-4971678d-8a2f-4e1b-81ff-02e4760a1e5d.mp4
 
-**Application pour gérér sa ps3 avec une addresse IP(connect, led, buzzer, manage file, send notify...)**
+**Application pour gérér sa ps3 avec une addresse IP(connect, led, buzzer, manage file, send notify...) sa ps3**
 
 
-# REQUIRED / ILS VOUS FAUT
+#REQUIRED / ILS VOUS FAUT
 ## EN : Install Webman on your console and authorized FTP
 ## FR : Installez Webman sur votre console et autorisé le FTP
 
 # FONCTIONNALITIES | FONCTIONNALITÉS
+EN : Application to manage your ps3 with an IP address (connect, led, buzzer, manage file, send notify...)
+FR : Application pour gérér sa ps3 avec une addresse IP(connect, led, buzzer, manage file, send notify...)
+
 - Connect your PS3
 - Control colors Leds
 - Buzzer Sound
@@ -25,6 +28,5 @@ https://user-images.githubusercontent.com/91079659/230118497-4971678d-8a2f-4e1b-
 # __Build__
 * [Tkinter](https://github.com/billythegoat356/pystyle)
 * [WebMan](https://github.com/aldostools/webMAN-MOD)
-
 
 
