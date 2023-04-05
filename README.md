@@ -20,7 +20,7 @@ FR : Application pour gérér sa ps3 avec une addresse IP(connect, led, buzzer, 
 - Manage file (FTP)
 
 
-# WARNING & PREVENTION
+# ⚠ WARNING & PREVENTION ⚠
 ### EN : I am in no way responsible for what you do with the application, if you have problems it is under your responsibility,if your BRICK console it is your responsibility
 
 ### FR : Je ne suis en aucun cas responsable de ce que vos faites avec l'application, si vous avez des problèmes c'est sous votre responsabilité, si votre console BRICK c'est votre responsabilité
