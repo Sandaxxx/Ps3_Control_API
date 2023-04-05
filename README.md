@@ -1,16 +1,22 @@
 # __**PS3 Control API**__
-## TUTO FRENCH/ENGLISH
+## TUTORIAL FRENCH/ENGLISH
 
-**TUTOApplication pour gérér sa ps3 avec une addresse IP(connect, led, buzzer, manage file, send notify...) sa ps3 **
+## **TUTOApplication pour gérér sa ps3 avec une addresse IP(connect, led, buzzer, manage file, send notify...) sa ps3**
 
 
 
-# __INSTALLATION__
+# __FONCTIONNALITIES | FONCTIONNALITÉS __
+-
+-
+-
+-
 
->### ```pip install pystyle```
->### ```pip install colorama```
 
 
 # __Build__
-* [pystyle](https://github.com/billythegoat356/pystyle)
-* [colorama](https://pypi.org/project/colorama/)
+* [Tkinter](https://github.com/billythegoat356/pystyle)
+* [WebMan](https://github.com/aldostools/webMAN-MOD)
+
+
+https://user-images.githubusercontent.com/91079659/230118497-4971678d-8a2f-4e1b-81ff-02e4760a1e5d.mp4
+
