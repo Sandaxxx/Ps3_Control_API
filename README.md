@@ -41,5 +41,3 @@ ______________________________________________________________
 # __⚒ Build__
 * [Tkinter](https://docs.python.org/fr/3/library/tkinter.html)
 * [WebMan](https://github.com/aldostools/webMAN-MOD)
-
-
