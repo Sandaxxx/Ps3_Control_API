@@ -15,7 +15,7 @@ ______________________________________________________________
 
 # 📡 FONCTIONNALITIES | FONCTIONNALITÉS
 
-EN : Application to manage your ps3 with an IP address (connect, led, buzzer, manage file, send notify...)
+EN : Application to manage your ps3 with an IP address (connect, led, buzzer, manage file, send notify...)\n
 FR : Application pour gérér sa ps3 avec une addresse IP(connect, led, buzzer, manage file, send notify...)
 
 - Connect your PS3
