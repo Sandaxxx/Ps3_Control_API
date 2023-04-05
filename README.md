@@ -2,9 +2,7 @@
 ## TUTORIAL FRENCH/ENGLISH 
 https://user-images.githubusercontent.com/91079659/230118497-4971678d-8a2f-4e1b-81ff-02e4760a1e5d.mp4
 
-![image](https://user-images.githubusercontent.com/91079659/230124262-99b7ae15-51e7-4406-8b5a-541508bcda57.png)
-
-![image](https://user-images.githubusercontent.com/91079659/230124509-11cffacb-a577-40b4-927f-f7eae8251223.png)
+![image](https://user-images.githubusercontent.com/91079659/230124262-99b7ae15-51e7-4406-8b5a-541508bcda57.png)![image](https://user-images.githubusercontent.com/91079659/230124509-11cffacb-a577-40b4-927f-f7eae8251223.png)
 
 ______________________________________________________________
 
