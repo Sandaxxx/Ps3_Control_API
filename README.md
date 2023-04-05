@@ -5,7 +5,7 @@ https://user-images.githubusercontent.com/91079659/230118497-4971678d-8a2f-4e1b-
 **Application pour gérér sa ps3 avec une addresse IP(connect, led, buzzer, manage file, send notify...) sa ps3**
 
 
-#REQUIRED / ILS VOUS FAUT
+# REQUIRED / ILS VOUS FAUT
 ## EN : Install Webman on your console and authorized FTP
 ## FR : Installez Webman sur votre console et autorisé le FTP
 
@@ -22,8 +22,13 @@ FR : Application pour gérér sa ps3 avec une addresse IP(connect, led, buzzer, 
 
 # WARNING & PREVENTION
 ### EN : I am in no way responsible for what you do with the application, if you have problems it is under your responsibility,if your BRICK console it is your responsibility
-###Je ne suis en aucun cas responsable de ce que vos faites avec l'application, si vous avez des problèmes c'est sous votre responsabilité, si votre console BRICK c'est votre responsabilité
 
+### FR : Je ne suis en aucun cas responsable de ce que vos faites avec l'application, si vous avez des problèmes c'est sous votre responsabilité, si votre console BRICK c'est votre responsabilité
+
+
+# Version V1.0
+
+### Thanks for use and stars i love u <3
 
 # __Build__
 * [Tkinter](https://github.com/billythegoat356/pystyle)
