@@ -1,4 +1,4 @@
-# __**PS3 Control API by Sandax**__
+# __**📌PS3 Control API by Sandax Version 1.0**__
 ## 📋 TUTORIAL FRENCH/ENGLISH 
 https://user-images.githubusercontent.com/91079659/230118497-4971678d-8a2f-4e1b-81ff-02e4760a1e5d.mp4
 
