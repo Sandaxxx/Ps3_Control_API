@@ -30,7 +30,7 @@ ______________________________________________________________
 # ⚠ WARNING | PREVENTION ⚠
 ### EN : I am in no way responsible for what you do with the application, if you have problems it is under your responsibility,if your BRICK console it is your responsibility. I am not responsible for any files you upload that are illegal or that might BRICK your console
 
-### FR : Je ne suis en aucun cas responsable de ce que vos faites avec l'application, si vous avez des problèmes c'est sous votre responsabilité, si votre console BRICK c'est votre responsabilité. Je ne suis pas résponsable des fichiers que vous transférez illégal ou qui pourrait BRICK votre console
+### FR : Je ne suis en aucun cas responsable de ce que vous faites avec l'application, si vous avez des problèmes c'est sous votre responsabilité, si votre console BRICK c'est votre responsabilité. Je ne suis pas résponsable des fichiers que vous transférez illégal ou qui pourrait BRICK votre console
 
 ______________________________________________________________
 
